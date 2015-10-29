@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/gauravdubey/AndroidStudioProjects/ExoPlayer/extensions/okhttp/build/intermediates/exploded-aar/ExoPlayer/library/unspecified/assets"/></dataSet><dataSet config="debug"><source path="/Users/gauravdubey/AndroidStudioProjects/ExoPlayer/extensions/okhttp/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/gauravdubey/AndroidStudioProjects/ExoPlayer/extensions/okhttp/src/androidTest/assets"/></dataSet></merger>
